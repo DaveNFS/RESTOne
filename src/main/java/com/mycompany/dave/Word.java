@@ -7,8 +7,11 @@ import com.mycompany.dave.*;
 /**
  * A simple word object that contains a name and some definitions.
  * 
- * @author david
+ * 
  */
+
+
+
 @XmlRootElement
 public class Word {
     private String name;

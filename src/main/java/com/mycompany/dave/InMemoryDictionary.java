@@ -10,7 +10,7 @@ import com.mycompany.dave.*;
  * This is an implementation of a very simple dictionary that remains in
  * memory.
  *
- * @author david
+ * 
  */
 public class InMemoryDictionary {
     private static InMemoryDictionary instance = null;
